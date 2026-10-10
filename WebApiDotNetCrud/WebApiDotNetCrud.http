@@ -1,0 +1,6 @@
+@WebApiDotNetCrud_HostAddress = http://localhost:5098
+
+GET {{WebApiDotNetCrud_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
