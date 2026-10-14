@@ -39,10 +39,11 @@ La API expone el controlador `ProductosController` bajo la ruta base `/api/Produ
 
 ---
 
-Muchas gracias por tomarte el tiempo y leer este ejercicio ;)
-
 ## CONFIGURACIÓN Y EJECUCIÓN LOCAL
 
 1. **Clonar el repositorio:**
    ```bash
    git clone [https://github.com/SRG0LD3N/WebApiDotNetCrud.git](https://github.com/SRG0LD3N/WebApiDotNetCrud.git)
+   
+
+Muchas gracias por tomarte el tiempo y leer este ejercicio ;)
