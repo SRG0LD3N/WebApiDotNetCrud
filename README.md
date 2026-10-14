@@ -1,4 +1,4 @@
-![Header Typing](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&color=1877F2&lines=SISTEMA+GESTION+DE+PRODUCTOS+-+API+.NET+8)
+![Header Typing](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=4000&color=1877F2&lines=SISTEMA+GESTION+DE+PRODUCTOS+-+API+.NET+8)
 
 Api desarrollada usando **.NET 8** utilizando **Entity Framework Core 8** para la gestión básica de productos. El proyecto implementa los datos en **SQL Server** y tiene documentación interactiva de endpoints usando **Swagger UI**, usamos una base de datos ya guardada de Productos para su gestión.
 
