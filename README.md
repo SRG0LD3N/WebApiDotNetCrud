@@ -1,10 +1,12 @@
-# WebApiDotNetCrud
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&color=1877F2&lines=Sistema+de+Control+de+Parqueo+🚗;Proyecto+Programacion+I+💻;Universidad+Mariano+Galvez+🎓" />
+</h1>
 
 Api desarrollada usando **.NET 8** utilizando **Entity Framework Core 8** para la gestión básica de productos (CRUD). El proyecto implementa los datos en **SQL Server** y tiene documentación interactiva de endpoints a través de **Swagger UI**.
 
 ---
 
-## 🚀 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 * **Lenguaje:** C# / .NET 8
 * **ORM:** Entity Framework Core v8.0.31
