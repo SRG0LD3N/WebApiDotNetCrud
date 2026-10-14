@@ -1,12 +1,12 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&color=1877F2&lines=Sistema+de+Control+de+Parqueo+🚗;Proyecto+Programacion+I+💻;Universidad+Mariano+Galvez+🎓" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&color=1877F2&lines=S" />
 </h1>
 
-Api desarrollada usando **.NET 8** utilizando **Entity Framework Core 8** para la gestión básica de productos (CRUD). El proyecto implementa los datos en **SQL Server** y tiene documentación interactiva de endpoints a través de **Swagger UI**.
+Api desarrollada usando **.NET 8** utilizando **Entity Framework Core 8** para la gestión básica de productos (CRUD). El proyecto implementa los datos en **SQL Server** y tiene documentación interactiva de endpoints a través de **Swagger UI**, usamos una base de datos ya guardadda.
 
 ---
 
-## Tecnologías Utilizadas
+## HERRAMIENTAS UTILIZADAS
 
 * **Lenguaje:** C# / .NET 8
 * **ORM:** Entity Framework Core v8.0.31
@@ -16,7 +16,7 @@ Api desarrollada usando **.NET 8** utilizando **Entity Framework Core 8** para l
 
 ---
 
-## 📊 Modelo de Datos (`Producto`)
+## MODELO DE DATOS (`Producto`)
 
 | Campo    | Tipo de Dato | Descripción                     |
 | :------- | :----------- | :------------------------------ |
@@ -27,7 +27,7 @@ Api desarrollada usando **.NET 8** utilizando **Entity Framework Core 8** para l
 
 ---
 
-## 🛠️ Endpoints de la API
+## ENDPOINTS DE API
 
 La API expone el controlador `ProductosController` bajo la ruta base `/api/Productos`:
 
@@ -41,7 +41,7 @@ La API expone el controlador `ProductosController` bajo la ruta base `/api/Produ
 
 ---
 
-## ⚙️ Configuración y Ejecución Local
+## CONFIGURACIÓN Y EJECUCIÓN LOCAL
 
 1. **Clonar el repositorio:**
    ```bash
